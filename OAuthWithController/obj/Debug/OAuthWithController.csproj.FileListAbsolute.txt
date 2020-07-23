@@ -78,8 +78,6 @@ F:\SelfLearn\DotNet\OAuth2\OAuthWithController\OAuthWithController\bin\System.We
 F:\SelfLearn\DotNet\OAuth2\OAuthWithController\OAuthWithController\bin\System.Web.WebPages.Razor.xml
 F:\SelfLearn\DotNet\OAuth2\OAuthWithController\OAuthWithController\bin\Antlr3.Runtime.pdb
 F:\SelfLearn\DotNet\OAuth2\OAuthWithController\OAuthWithController\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-F:\SelfLearn\DotNet\OAuth2\OAuthWithController\OAuthWithController\obj\Debug\OAuthWithController.csprojAssemblyReference.cache
-F:\SelfLearn\DotNet\OAuth2\OAuthWithController\OAuthWithController\obj\Debug\OAuthWithController.csproj.CopyComplete
 F:\SelfLearn\DotNet\OAuth2\OAuthWithController\OAuthWithController\obj\Debug\OAuthWithController.dll
 F:\SelfLearn\DotNet\OAuth2\OAuthWithController\OAuthWithController\obj\Debug\OAuthWithController.pdb
 F:\SelfLearn\DotNet\OAuth2\OAuthWithController\OAuthWithController\bin\Microsoft.AspNet.Identity.Core.dll
@@ -99,3 +97,10 @@ F:\SelfLearn\DotNet\OAuth2\OAuthWithController\OAuthWithController\bin\Microsoft
 F:\SelfLearn\DotNet\OAuth2\OAuthWithController\OAuthWithController\bin\Microsoft.Owin.Security.Cookies.xml
 F:\SelfLearn\DotNet\OAuth2\OAuthWithController\OAuthWithController\bin\Microsoft.Owin.Security.OAuth.xml
 F:\SelfLearn\DotNet\OAuth2\OAuthWithController\OAuthWithController\bin\System.Web.Http.Owin.xml
+F:\SelfLearn\DotNet\OAuth2\OAuthWithController\OAuthWithController\obj\Debug\OAuthWithController.csprojResolveAssemblyReference.cache
+F:\SelfLearn\DotNet\OAuth2\OAuthWithController\OAuthWithController\bin\EntityFramework.dll
+F:\SelfLearn\DotNet\OAuth2\OAuthWithController\OAuthWithController\bin\EntityFramework.SqlServer.dll
+F:\SelfLearn\DotNet\OAuth2\OAuthWithController\OAuthWithController\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\SelfLearn\DotNet\OAuth2\OAuthWithController\OAuthWithController\bin\EntityFramework.xml
+F:\SelfLearn\DotNet\OAuth2\OAuthWithController\OAuthWithController\bin\EntityFramework.SqlServer.xml
+F:\SelfLearn\DotNet\OAuth2\OAuthWithController\OAuthWithController\bin\Microsoft.AspNet.Identity.EntityFramework.xml
